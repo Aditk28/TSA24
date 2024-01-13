@@ -1174,3 +1174,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.13-17.31.34:534][  1]LogAssetRegistry: AssetRegistryGather time 0.5482s: AssetDataDiscovery 0.2419s, AssetDataGather 0.2506s, StoreResults 0.0557s.
 [2024.01.13-17.31.34:566][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2024.01.13-17.31.35:666][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.13-17.32.20:146][139]LogSlate: Window 'Content Browser' being destroyed
